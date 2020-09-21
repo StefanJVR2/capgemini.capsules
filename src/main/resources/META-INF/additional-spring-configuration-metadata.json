@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "spacex.capsules.url",
+      "type": "java.lang.String",
+      "description": "This url provides capsule information from SpaceX, including reuse count and current status."
+    }
+  ]
+}
