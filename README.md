@@ -9,7 +9,7 @@ difference being that the GET will store and return the data, while the POST wil
 
 ## Getting Started
 To start the application run the following commands in command prompt
-* Clone repository: `git clone https://github.com/StefanJVR2/spacex.capsules.git`
+* Clone repository: `git clone https://github.com/StefanJVR2/capgemini.capsules.git`
 * Package jar: `mvnw package`
 * Build docker image: `docker build -t com.capgemini/capsules .`
 * Run app `docker run -p 8080:8080 -t com.capgemini/capsules`
